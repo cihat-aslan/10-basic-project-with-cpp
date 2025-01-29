@@ -1,6 +1,7 @@
 C++ Learning Journey: 10 Step-by-Step Projects 🚀
 
 Here’s a curated list of 10 C++ projects to take you from beginner to advanced level. Each project builds on the previous one, helping you solidify your skills progressively.
+
 🌱 Beginner-Level Projects (Functions, Loops, Conditionals)
 
     1-Calculator
