@@ -2,63 +2,66 @@
 #include <limits>
 
 using namespace std;
+
 int main() {
-    int num1, num2, result = 0, condition1 = 0;
-    char op, condition2;
+    char condition2;
 
-    while (condition1 == 0) {
+    do {
+        double num1, num2, result;
+        char op;
 
-        cout << "enter first number: ";
+        cout << "Enter first number: ";
         cin >> num1;
-        if (cin.fail()) {
+	if (cin.fail()) {
             cin.clear();
             cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
             cout << "invalid character or too long integer, please type a valid number: ";
             cin >> num1;
         }
-
-        cout << "enter second number: ";
+        cout << "Enter second number: ";
         cin >> num2;
-        if (cin.fail()) {
+	if (cin.fail()) {
             cin.clear();
             cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
             cout << "invalid character or too long integer, please type a valid number: ";
             cin >> num2;
         }
-
-        cout << "enter arithmetic operator: ";
+        cout << "Enter arithmetic operator (+, -, *, /): ";
         cin >> op;
 
-        if (op == '+') {
-            result = num1 + num2;
+        switch (op) {
+            case '+': result = num1 + num2; break;
+            case '-': result = num1 - num2; break;
+            case '*': result = num1 * num2; break;
+            case '/':
+                if (num2 != 0)
+                    result = num1 / num2;
+                else {
+                    cout << "Error! Division by zero." << endl;
+                    continue;
+                }
+                break;
+            default:
+                cout << "Invalid operator." << endl;
+                continue;
         }
-        else if (op == '-') {
-            result = num1 - num2;
-        }
-        else if (op == '*') {
-            result = num1 * num2;
-        }
-        else if (op == '/') {
-            if (num2 == 0) {
-                cout << "Error: Division by zero is not allowed." << endl;
 
-            }else
-                result = num1 / num2;
-        }
         cout << num1 << " " << op << " " << num2 << " = " << result << endl;
-        cout << endl;
-        cout << "do you want to continue (y/n): ";
-        cin >> condition2;
-        if (condition2 == 'y' || condition2 == 'Y') {
-            condition1 = 0;
-            cout << endl;
+
+        while (true) {
+            cout << "Do you want to continue (y/n): ";
+            cin >> condition2;
+
+            if (condition2 == 'y' || condition2 == 'Y') {
+                break;
+            }
+            if (condition2 == 'n' || condition2 == 'N') {
+                return 0;
+            }
+            cout << "Invalid choice, please try again." << endl;
         }
-        else if (condition2 == 'n' || condition2 == 'N') {
-            condition1 = 1;
-            cout << endl;
-        }
-        else {
-            cout << "invalid choice, please try again" << endl;
-        }
-    }
+
+    } while (true);
 }
+
+

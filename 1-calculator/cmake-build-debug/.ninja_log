@@ -1,0 +1,27 @@
+# ninja log v6
+2	490	7598821945647680	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+493	579	7598821950567244	1_calculator.exe	4d967f31fbb2e460
+23	476	7598822861423036	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+477	563	7598822865962413	1_calculator.exe	4d967f31fbb2e460
+12	540	7598823293802834	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+540	625	7598823299080648	1_calculator.exe	4d967f31fbb2e460
+20	578	7598823611535016	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+578	661	7598823617116060	1_calculator.exe	4d967f31fbb2e460
+24	507	7598825906447038	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+508	592	7598825911284057	1_calculator.exe	4d967f31fbb2e460
+22	472	7598826508464078	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+478	585	7598826513021731	1_calculator.exe	4d967f31fbb2e460
+23	559	7598826701491988	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+560	657	7598826706860250	1_calculator.exe	4d967f31fbb2e460
+24	573	7598828172156167	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+573	655	7598828177644511	1_calculator.exe	4d967f31fbb2e460
+26	545	7598830127893533	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+545	628	7598830133084381	1_calculator.exe	4d967f31fbb2e460
+26	538	7598830805591749	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+538	621	7598830810707021	1_calculator.exe	4d967f31fbb2e460
+4	473	7598832629777236	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+474	562	7598832634465815	1_calculator.exe	4d967f31fbb2e460
+20	565	7598832798077170	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+566	669	7598832803537624	1_calculator.exe	4d967f31fbb2e460
+22	488	7598833064506933	CMakeFiles/1_calculator.dir/main.cpp.obj	ccee8f8d01580319
+488	586	7598833069160822	1_calculator.exe	4d967f31fbb2e460
