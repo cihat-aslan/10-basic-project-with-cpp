@@ -1,0 +1,3 @@
+D:/Users/cihat/CLionProjects/10-basic-project-with-cpp/9-simple-operating-system/cmake-build-debug/CMakeFiles/9_simple_operating_system.dir
+D:/Users/cihat/CLionProjects/10-basic-project-with-cpp/9-simple-operating-system/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/cihat/CLionProjects/10-basic-project-with-cpp/9-simple-operating-system/cmake-build-debug/CMakeFiles/rebuild_cache.dir

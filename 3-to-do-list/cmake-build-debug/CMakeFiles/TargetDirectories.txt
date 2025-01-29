@@ -1,0 +1,3 @@
+D:/Users/cihat/CLionProjects/10-basic-project-with-cpp/3-to-do-list/cmake-build-debug/CMakeFiles/3_to_do_list.dir
+D:/Users/cihat/CLionProjects/10-basic-project-with-cpp/3-to-do-list/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/cihat/CLionProjects/10-basic-project-with-cpp/3-to-do-list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
