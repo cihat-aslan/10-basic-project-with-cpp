@@ -3,7 +3,7 @@ C++ Learning Journey: 10 Step-by-Step Projects 🚀
 Here’s a curated list of 10 C++ projects to take you from beginner to advanced level. Each project builds on the previous one, helping you solidify your skills progressively.
 🌱 Beginner-Level Projects (Functions, Loops, Conditionals)
 
-    Calculator
+    1-Calculator
 
         Description: A console-based calculator for addition, subtraction, multiplication, and division.
 
@@ -13,7 +13,7 @@ Here’s a curated list of 10 C++ projects to take you from beginner to advanced
 
         Next Step: Add memory features (e.g., store the last result) or scientific functions (e.g., exponents).
 
-    Number Guessing Game
+    2-Number Guessing Game
 
         Description: The user guesses a randomly generated number between 1 and 100.
 
@@ -23,7 +23,7 @@ Here’s a curated list of 10 C++ projects to take you from beginner to advanced
 
         Next Step: Add difficulty levels (e.g., 1-50, 1-100) and hints for the user.
 
-    To-Do List Manager
+    3-To-Do List Manager
 
         Description: A simple console app to add, delete, and view tasks.
 
@@ -35,7 +35,7 @@ Here’s a curated list of 10 C++ projects to take you from beginner to advanced
 
 🚀 Intermediate-Level Projects (OOP, Data Structures)
 
-    Bank Account Management System
+    4-Bank Account Management System
 
         Description: Users can create accounts, deposit/withdraw money, and view balances.
 
@@ -45,7 +45,7 @@ Here’s a curated list of 10 C++ projects to take you from beginner to advanced
 
         Next Step: Add interest calculations, loans, or a GUI using Qt.
 
-    Text-Based RPG Game
+    5-Text-Based RPG Game
 
         Description: A battle game where players fight monsters and collect rewards.
 
@@ -55,7 +55,7 @@ Here’s a curated list of 10 C++ projects to take you from beginner to advanced
 
         Next Step: Implement a leveling system, quests, or multiplayer features.
 
-    File Encryptor/Decryptor
+    6-File Encryptor/Decryptor
 
         Description: Encrypt or decrypt files using algorithms like ROT13 or XOR.
 
@@ -67,7 +67,7 @@ Here’s a curated list of 10 C++ projects to take you from beginner to advanced
 
 🔥 Advanced-Level Projects (Optimization, Multithreading, GUI)
 
-    Simple Database System
+    7-Simple Database System
 
         Description: Read/write CSV files and perform CRUD operations (Create, Read, Update, Delete).
 
@@ -77,7 +77,7 @@ Here’s a curated list of 10 C++ projects to take you from beginner to advanced
 
         Next Step: Build a SQL-like query parser or add transaction support.
 
-    2D Game (e.g., Snake or Tetris)
+    8-2D Game (e.g., Snake or Tetris)
 
         Description: A graphical game using SFML or SDL libraries.
 
@@ -87,7 +87,7 @@ Here’s a curated list of 10 C++ projects to take you from beginner to advanced
 
         Next Step: Add multiplayer mode, AI opponents, or a level editor.
 
-    Operating System Simulator
+    9-Operating System Simulator
 
         Description: Simulate OS concepts like process scheduling and memory management.
 
@@ -97,7 +97,7 @@ Here’s a curated list of 10 C++ projects to take you from beginner to advanced
 
         Next Step: Visualize processes with a GUI or implement virtual memory.
 
-    Neural Network Library
+    10-Neural Network Library
 
         Description: A basic neural network trained on the MNIST dataset for digit recognition.
 
